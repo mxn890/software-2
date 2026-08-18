@@ -83,7 +83,7 @@ export default function LoginPage() {
             color: 'var(--text)',
             letterSpacing: '-0.03em',
             marginBottom: '8px',
-          }}>Shaukat Collection Shop #2</h1>
+          }}>Shaukat Collection Shop 2</h1>
           <p style={{ 
             color: 'var(--text2)', 
             fontSize: '14px', 
