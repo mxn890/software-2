@@ -17,7 +17,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata = {
-  title: 'Shaukat Collection Inventory',
+  title: 'Shaukat Collection Shop #2 Inventory',
   description: 'Inventory management system',
 };
 
